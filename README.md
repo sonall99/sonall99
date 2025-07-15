@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonal singh</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonall99&label=Profile%20views&color=0e75b6&style=flat" alt="sonall99" /> </p>
 
@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sonalsingh99/](https://www.linkedin.com/in/sonalsingh99/)
 
@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **sonalsinghoff99@gmail.com**
 
-- ⚡ Fun fact **I think i'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
