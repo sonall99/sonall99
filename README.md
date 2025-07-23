@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonall99&show_icons=true&locale=en" alt="sonall99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonall99&" alt="sonall99" /></p>
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/sonall99/sonall99/output/github-contribution-grid-snake.svg)
