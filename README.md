@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sonalsingh99/](https://www.linkedin.com/in/sonalsingh99/)
 
-- 💬 Ask me about **Android | AI | ML | Competitive Programming | DSA**
+- 💬 Ask me about **ML | AI | Android | Competitive Programming | DSA**
 
 - 📫 How to reach me **sonalsinghoff99@gmail.com**
 
@@ -33,9 +33,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonall99&show_icons=true&locale=en&layout=compact" alt="sonall99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonall99&show_icons=true&locale=en" alt="sonall99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonall99&" alt="sonall99" /></p>
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/sonall99/sonall99/output/github-contribution-grid-snake.svg)
