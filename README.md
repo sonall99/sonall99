@@ -10,7 +10,7 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonall99&label=Profile%20views&color=0e75b6&style=flat" alt="sonall99" /> </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e">
 
