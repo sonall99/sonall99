@@ -3,7 +3,7 @@
 <!-- Animated Typing SVG Header -->
 <!-- Animated Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Sonal+Singh+%F0%9F%9A%80;AI%2FML+Engineer+%7C+Production+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Sonal+Singh+%F0%9F%9A%80;AI%2FML+Engineer+%7C+Production+Systems" alt="Typing SVG" />
   
 </a>
 
